@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning ** Flutter Development** , and **Machine Learning**  <br />
 - 👯 I’m looking to collaborate on **Mobile App Development and Object Detection Projects**  <br />
 - 💬 Ask me about **Flutter, Dart, Firebase, Machine Learning, Deep Learning, and App Development**  <br />
-- 📫 How to reach me: **aghilas.zerrouki.2004@gmail.com** or [**Telegram**](https://t.me/aghilaszerrouki)  <br />
+- 📫 How to reach me: **aghilas.zerrouki.2004@gmail.com** or [**Telegram**](https://web.telegram.org/a/#5404034777)  <br />
 - ⚡ Fun fact: I love creating clean, responsive, and scalable mobile applications!  <br />
 
 <h3 align="left">Connect with me:</h3>

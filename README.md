@@ -1,12 +1,12 @@
 
 <p align="center">
-  <a href="https://github.com/ZerroukiAghilas">
+  <a href="https://https://github.com/Zr-AGhilas/Zr-AGhilas">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=800&color=0077FF&center=true&width=435&lines=Aghilas+Zerrouki" alt="Aghilas Zerrouki" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZerroukiAghilas">
+  <a href="https://https://github.com/Zr-AGhilas/Zr-AGhilas">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=0077FF&center=true&width=435&lines=Flutter+Developer;Dart+%7C+Python+%7C+Machine+Learning;Building+Mobile+and+Web+Apps" />
   </a>
 </p>
@@ -17,12 +17,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/aghilaszerrouki"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/ZerroukiAghilas"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
+  <a href="https://https://github.com/Zr-AGhilas/Zr-AGhilas"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerroukiaghilas&label=Profile%20views&color=0077FF&style=flat" alt="zerroukiaghilas" /> </p>
 
-- 🌱 I’m currently learning **Advanced Flutter Development**, **Backend with Django**, and **Machine Learning**  <br />
+- 🌱 I’m currently learning ** Flutter Development** , and **Machine Learning**  <br />
 - 👯 I’m looking to collaborate on **Mobile App Development and Object Detection Projects**  <br />
 - 💬 Ask me about **Flutter, Dart, Firebase, Machine Learning, Deep Learning, and App Development**  <br />
 - 📫 How to reach me: **aghilas.zerrouki.2004@gmail.com** or [**Telegram**](https://t.me/aghilaszerrouki)  <br />
@@ -81,10 +81,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
-  <!-- Assembly (generic icon) -->
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Assembly-language-01.png" alt="assembly" width="40" height="40"/> 
-  </a>
+
 </p>
 
 

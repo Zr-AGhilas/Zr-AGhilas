@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://https://github.com/Zr-AGhilas/Zr-AGhilas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=0077FF&center=true&width=435&lines=Flutter+Developer;Msc 1 Computer Engineering;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=0077FF&center=true&width=435&lines=Flutter+Developer;Msc 1 Computer Engineering;" />
   </a>
 </p>
 

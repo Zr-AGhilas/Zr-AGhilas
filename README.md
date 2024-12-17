@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aghilas-zerrouki-a51713256/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/aghilaszerrouki"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
+  <a href="https://web.telegram.org/a/#5404034777"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://https://github.com/Zr-AGhilas/Zr-AGhilas"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 </p>
